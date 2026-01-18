@@ -14,7 +14,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class multiplescenariotestorangehrm {
+public class Multiplescenariotesthrm {
 	
 	WebDriver d ;
 	String URL = "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index";
